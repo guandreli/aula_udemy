@@ -1,0 +1,6 @@
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe.config
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.pdb
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csprojResolveAssemblyReference.cache
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.exe
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.pdb

@@ -1,0 +1,6 @@
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio5\exercicio5\bin\Debug\exercicio5.exe.config
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio5\exercicio5\bin\Debug\exercicio5.exe
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio5\exercicio5\bin\Debug\exercicio5.pdb
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio5\exercicio5\obj\Debug\exercicio5.exe
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio5\exercicio5\obj\Debug\exercicio5.pdb
+c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio5\exercicio5\obj\Debug\exercicio5.csprojResolveAssemblyReference.cache
