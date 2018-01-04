@@ -1,6 +1,0 @@
-G:\projetos_git\aula_udemy\modulo2\modulo2\bin\Debug\modulo2.exe.config
-G:\projetos_git\aula_udemy\modulo2\modulo2\bin\Debug\modulo2.exe
-G:\projetos_git\aula_udemy\modulo2\modulo2\bin\Debug\modulo2.pdb
-G:\projetos_git\aula_udemy\modulo2\modulo2\obj\Debug\modulo2.csprojResolveAssemblyReference.cache
-G:\projetos_git\aula_udemy\modulo2\modulo2\obj\Debug\modulo2.exe
-G:\projetos_git\aula_udemy\modulo2\modulo2\obj\Debug\modulo2.pdb

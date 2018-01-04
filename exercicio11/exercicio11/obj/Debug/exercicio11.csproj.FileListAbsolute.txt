@@ -1,5 +1,0 @@
-C:\Users\gustavo.andreli\Documents\Visual Studio 2017\Projects\exercicio11\exercicio11\bin\Debug\exercicio11.exe.config
-C:\Users\gustavo.andreli\Documents\Visual Studio 2017\Projects\exercicio11\exercicio11\bin\Debug\exercicio11.exe
-C:\Users\gustavo.andreli\Documents\Visual Studio 2017\Projects\exercicio11\exercicio11\bin\Debug\exercicio11.pdb
-C:\Users\gustavo.andreli\Documents\Visual Studio 2017\Projects\exercicio11\exercicio11\obj\Debug\exercicio11.exe
-C:\Users\gustavo.andreli\Documents\Visual Studio 2017\Projects\exercicio11\exercicio11\obj\Debug\exercicio11.pdb

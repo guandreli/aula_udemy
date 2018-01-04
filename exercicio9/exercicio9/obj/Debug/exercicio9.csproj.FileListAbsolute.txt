@@ -1,6 +1,0 @@
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.exe.config
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.exe
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.pdb
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.csprojResolveAssemblyReference.cache
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.exe
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.pdb

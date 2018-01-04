@@ -1,5 +1,0 @@
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio6\exercicio6\bin\Debug\exercicio6.exe
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio6\exercicio6\bin\Debug\exercicio6.pdb
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio6\exercicio6\obj\Debug\exercicio6.exe
-c:\users\gustavo.andreli\documents\visual studio 2017\Projects\exercicio6\exercicio6\obj\Debug\exercicio6.pdb
